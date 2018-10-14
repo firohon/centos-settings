@@ -1,0 +1,52 @@
+#Host for CTS
+
+#Demo
+#HOST cts-
+#HostName 120.24.176.137
+#Port 
+#User firo
+
+HOST cts-ast
+HostName 120.24.176.137
+Port 13334
+User firo
+
+HOST cts-xh
+HostName 120.24.176.137
+Port 59450
+User firo
+
+HOST cts-xh-server
+HostName 120.24.176.137
+Port 59451
+User root
+
+HOST cts-ast-airport
+HostName 120.24.176.137
+Port 27304
+User firo
+
+HOST cts-One Yuan
+HostName 120.24.176.137
+Port 51016
+User firo
+
+HOST cts-RenHe
+HostName 120.24.176.137
+Port 23457
+User firo
+
+HOST cts-DYS
+HostName 120.24.176.137
+Port 33156
+User firo
+
+HOST cts-DYS-Server
+HostName 120.24.176.137
+Port 33157
+User root
+
+HOST cts-home
+HostName 120.24.176.137
+Port 51516
+User firo
