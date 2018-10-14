@@ -26,22 +26,22 @@ HostName 120.24.176.137
 Port 27304
 User firo
 
-HOST cts-One Yuan
+HOST cts-oneyuan
 HostName 120.24.176.137
 Port 51016
 User firo
 
-HOST cts-RenHe
+HOST cts-renhe
 HostName 120.24.176.137
 Port 23457
 User firo
 
-HOST cts-DYS
+HOST cts-dys
 HostName 120.24.176.137
 Port 33156
 User firo
 
-HOST cts-DYS-Server
+HOST cts-dys-Server
 HostName 120.24.176.137
 Port 33157
 User root
