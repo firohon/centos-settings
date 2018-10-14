@@ -50,3 +50,13 @@ HOST cts-home
 HostName 120.24.176.137
 Port 51516
 User firo
+
+HOST Lan-xh-router
+HostName 172.22.1.254
+Port 17222
+User firo
+
+HOST Lan-ast-router
+HostName 192.168.56.1
+Port 17222
+User firo
